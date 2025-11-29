@@ -80,6 +80,8 @@ I can also provide short sample answers if needed.”
 
 In this interaction, I relied on ChatGPT to review a complete section of my draft presentation. I often write in a mixed casual–academic style, so I needed help making the tone more formal. ChatGPT reorganized several paragraphs, strengthened the transitions, and replaced informal expressions with clearer academic phrasing. These revisions helped me understand what formal academic communication should look like, and I incorporated many of these improved sentences into my final presentation script.
 
+The second part of our conversation focused on preparing for the Q&A. Since the professor usually asks methodological questions, I asked ChatGPT to predict what questions might appear. The questions it generated—such as how we evaluated timing accuracy, whether forecast-based signals are justified, and the limitations of using wind-station data—were all realistic and closely connected to our research topic. I practiced answering these questions before the presentation, which increased my confidence during the actual session.
+
 Overall, this exchange showed me that AI is not only useful for correcting grammar but also for supporting deeper academic thinking. ChatGPT helped me identify gaps in my reasoning, anticipate possible criticisms, and improve the clarity of my arguments. Through this process, I realized that AI can be an effective learning tool that supports both writing and critical thinking in university coursework.
 
 ## Reflection on Human-AI Collaboration
@@ -92,3 +94,10 @@ Over time, I started to view AI more as a “reasoning partner” than as an enc
 Another important reflection is the risk of over-relying on AI. I noticed that when AI helped too quickly, I may sometimes understand the assignment or dataset less deeply. AI can make writing easier, but it may weaken my academic or critical thinking if I rely on it too much. Because of this, I learned that AI should support my work, not replace my effort. Real learning happens when I question information, compare options, and make decisions myself.
 
 Overall, this course changed how I understand human and AI collaboration. AI can provide speed, organization, and alternative ideas, but humans must provide context, judgment, and final decisions. In the future, I will continue to use AI as a helpful tool, but I will always take responsibility for the final output. AI can guide me, but it cannot replace my understanding of the course goals or my critical thinking. Good collaboration happens when AI supports human reasoning instead of replacing it.
+
+## Learning Outcomes and Transferable Skills
+Through this course, I learned how to use AI in a careful and effective way. I improved my ability to write clear prompts, evaluate AI responses, and combine AI support with my own thinking. I also became better at debugging code because I constantly tested and reviewed AI-generated suggestions. These skills will help me in future courses and technical work.
+
+Another important skill I gained is explaining my assumptions clearly. AI works better when I describe my logic step by step, so I practiced expressing my reasoning more clearly. This skill is useful not only in programming but also in academic writing and problem-solving.
+
+I also learned that AI has limitations. It can misunderstand data, give incorrect answers, or sound confident even when wrong. Knowing this helps me use AI more safely in the future. Overall, this course increased my confidence in working with AI while keeping human judgment at the center.
