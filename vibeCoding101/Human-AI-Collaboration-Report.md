@@ -80,8 +80,6 @@ I can also provide short sample answers if needed.”
 
 In this interaction, I relied on ChatGPT to review a complete section of my draft presentation. I often write in a mixed casual–academic style, so I needed help making the tone more formal. ChatGPT reorganized several paragraphs, strengthened the transitions, and replaced informal expressions with clearer academic phrasing. These revisions helped me understand what formal academic communication should look like, and I incorporated many of these improved sentences into my final presentation script.
 
-The second part of our conversation focused on preparing for the Q&A. Since the professor usually asks methodological questions, I asked ChatGPT to predict what questions might appear. The questions it generated—such as how we evaluated timing accuracy, whether forecast-based signals are justified, and the limitations of using wind-station data—were all realistic and closely connected to our research topic. I practiced answering these questions before the presentation, which increased my confidence during the actual session.
-
 Overall, this exchange showed me that AI is not only useful for correcting grammar but also for supporting deeper academic thinking. ChatGPT helped me identify gaps in my reasoning, anticipate possible criticisms, and improve the clarity of my arguments. Through this process, I realized that AI can be an effective learning tool that supports both writing and critical thinking in university coursework.
 
 ## Reflection on Human-AI Collaboration
